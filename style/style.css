@@ -1,0 +1,15 @@
+li{
+    display: inline;
+}
+#center{
+    margin-top: 100px;
+}
+
+@font-face {
+    font-family: LetterGothicStd;
+    src: url(../fonts/LetterGothicStd.otf);
+  }
+
+  #judulUtama{
+      font-family: LetterGothicStd;
+  }
