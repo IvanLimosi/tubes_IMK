@@ -1,15 +1,13 @@
-li{
-    display: inline;
-}
-#center{
-    margin-top: 100px;
-}
+.paragraph-6 {
+	width: 250px;
+	height: 100px;
+	color: #000000;
+	font-family: "Helvetica";
+	font-weight: 400;
+	font-size: 60px;
+	line-height: 1.5px;
+    text-align: center;
+    margin-top: 2%;
+    margin-left: 1%;
 
-@font-face {
-    font-family: LetterGothicStd;
-    src: url(../fonts/LetterGothicStd.otf);
-  }
-
-  #judulUtama{
-      font-family: LetterGothicStd;
-  }
+}
